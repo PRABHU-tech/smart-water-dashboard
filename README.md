@@ -10,8 +10,7 @@ This is a simple HTML and CSS project that showcases an AI-based Smart Water Mon
 
 ## 🔗 Live Link
 
-[Click here to view the project](https://yourusername.github.io/smart-water-dashboard)
-
+[Click here to view the project]( https://prabhu-tech.github.io/smart-water-dashboard/)
 ## 💻 Built With
 
 - HTML5
